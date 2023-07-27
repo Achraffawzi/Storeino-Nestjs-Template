@@ -32,7 +32,7 @@ git remote add origin <new_project_repository_url>
 5. Push to the New Project Repository:
 
 ```bash
-git push -u origin master
+git push -u origin main
 ```
 
 ## Contributing
