@@ -35,6 +35,18 @@ git remote add origin <new_project_repository_url>
 git push -u origin main
 ```
 
+6. Install packages:
+
+```bash
+pnpm install
+```
+
+7. Run the project:
+
+```bash
+pnpm start:dev
+```
+
 
 > **Warning**
 > Make sure you edit your README file in your project so it doesn't contain the content of this repository.
