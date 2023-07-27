@@ -8,7 +8,7 @@ It contains common configuration used for different projects (e.g: database conf
 1. Clone the Template Repository:
 
 ```bash
-git clone <template_repository_url> <new_project_name>
+git clone https://github.com/Achraffawzi/Storeino-Nestjs-Template.git <new_project_name>
 ```
 
 2. Navigate to the New Project Directory:
@@ -32,8 +32,12 @@ git remote add origin <new_project_repository_url>
 5. Push to the New Project Repository:
 
 ```bash
-git push -u origin master
+git push -u origin main
 ```
+
+
+> **Warning**
+> Make sure you edit your README file in your project so it doesn't contain the content of this repository.
 
 ## Contributing
 
