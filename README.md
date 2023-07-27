@@ -35,7 +35,7 @@ git remote add origin <new_project_repository_url>
 git push -u origin main
 ```
 
-> **Warning**
+> **alert#9a6700;Warning**
 > Make sure you edit your README file in your project so it doesn't contain the content of this repository.
 
 ## Contributing
