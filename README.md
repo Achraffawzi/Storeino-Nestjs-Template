@@ -8,7 +8,7 @@ It contains common configuration used for different projects (e.g: database conf
 1. Clone the Template Repository:
 
 ```bash
-git clone <template_repository_url> <new_project_name>
+git clone [<template_repository_url>](https://github.com/Achraffawzi/Storeino-Nestjs-Template.git) <new_project_name>
 ```
 
 2. Navigate to the New Project Directory:
