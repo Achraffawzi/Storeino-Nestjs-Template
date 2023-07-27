@@ -48,8 +48,10 @@ pnpm start:dev
 ```
 
 
-> **Warning**
+# Important
+
 > Make sure you edit your README file in your project so it doesn't contain the content of this repository.
+> Make sure you add your database name in .env file
 
 ## Contributing
 
